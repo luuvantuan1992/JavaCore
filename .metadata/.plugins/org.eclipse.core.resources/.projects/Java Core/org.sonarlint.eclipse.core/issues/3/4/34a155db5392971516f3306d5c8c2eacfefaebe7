@@ -1,0 +1,8 @@
+
+X
+java:S2129" Remove this "String" constructor(ÃÞ¶Èùÿÿÿÿ8¿ä’Ý‹0HžRMAJORZ
+CODE_SMELL
+m
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¹ù äûÿÿÿÿ8¿ä’Ý‹0HŸRMAJORZBUG
+m
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(ÕÂÊ‡ùÿÿÿÿ8¿ä’Ý‹0H¤RMAJORZBUG

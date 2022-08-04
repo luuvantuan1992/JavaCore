@@ -1,0 +1,16 @@
+
+|
+java:S20957"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿH¯RBLOCKERZBUG
+{
+java:S2095'"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿH°RBLOCKERZBUG
+{
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿH±RBLOCKERZBUG
+t
+java:S2095&"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ş·²H²RBLOCKERZBUG
+u
+java:S20956"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(²†±äH³RBLOCKERZBUG
+k
+java:S1118":Add a private constructor to hide the implicit public one.(é¥÷¶øÿÿÿÿH´RMAJORZ
+CODE_SMELL
+y
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(âÊœØûÿÿÿÿHµRBLOCKERZBUG

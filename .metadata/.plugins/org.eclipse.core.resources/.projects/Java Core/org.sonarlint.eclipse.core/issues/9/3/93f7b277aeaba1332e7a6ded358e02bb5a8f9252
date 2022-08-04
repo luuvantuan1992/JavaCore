@@ -1,0 +1,15 @@
+
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(άψυαH”RMINORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τΗh8δ”ƒΥ‘0H•RMINORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τΗh8δ”ƒΥ‘0H–RMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(δ¦ωÿÿÿÿ8δ”ƒΥ‘0H—RMINORZ
+CODE_SMELL
+	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΟΘ„ύÿÿÿÿ8δ”ƒΥ‘0HRMINORZ
+CODE_SMELL
+ƒ	java:S116"QRename this field "ma_nxb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψέ£Ò8δ”ƒΥ‘0H™RMINORZ
+CODE_SMELL
+…	java:S116"SRename this field "name_nxb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ϋώ‚8δ”ƒΥ‘0HRMINORZ
+CODE_SMELL

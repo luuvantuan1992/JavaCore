@@ -1,0 +1,10 @@
+
+t
+java:S1612*"BReplace this lambda with method reference 'Bao.class::isInstance'.(ÏÖŒW8û—Œ‡0H”RMINORZ
+CODE_SMELL
+{
+java:S1612 "CReplace this lambda with method reference 'Sach.class::isInstance'.(²²áäúÿÿÿÿ8û—Œ‡0H–RMINORZ
+CODE_SMELL
+x
+java:S1612%"EReplace this lambda with method reference 'TapChi.class::isInstance'.(ŸÔÓç8û—Œ‡0H˜RMINORZ
+CODE_SMELL

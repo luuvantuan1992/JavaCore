@@ -1,0 +1,16 @@
+
+‡
+java:S3008
+"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·î—·8×„ÛØ0H†RMINORZ
+CODE_SMELL
+„
+java:S3008	"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ…¨º8×„ÛØ0H‡RMINORZ
+CODE_SMELL
+e
+java:S49256"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8×„ÛØ0HˆRMAJORZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8×„ÛØ0H‰RBLOCKERZBUG
+‹
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÉıÆøÿÿÿÿ8×„ÛØ0HŠRMINORZ
+CODE_SMELL

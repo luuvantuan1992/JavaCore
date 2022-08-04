@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lesson5.Main"/>
+    <fullyQualifiedTypeName name="lesson5.baitap.bai2.TuyenSinh.TuyenSinhCon"/>
+    <fullyQualifiedTypeName name="lesson6.BaiHoc.banh.BanhSinhNhat"/>
+    <fullyQualifiedTypeName name="lesson6.BaiHoc.banh.inf.NhaoBotMy"/>
+    <fullyQualifiedTypeName name="lesson6.BaiHoc.banh.inf.NuongNhietCao"/>
+    <fullyQualifiedTypeName name="lesson6.BaiHoc.banh.BanhBao"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="lesson6.TinhGiaTienMotQuanCaPhe.CondimentDecorator"/>
+    <fullyQualifiedTypeName name="lesson6.ChuaBai2.cafe.CafeAbstract"/>
+    <fullyQualifiedTypeName name="lesson6.ChuaBai2.condiment.CondimentMilk"/>
+    <fullyQualifiedTypeName name="lesson6.ChuaBai2.cafe.CafeDecaf"/>
+    <fullyQualifiedTypeName name="lesson6.ChuaBai2.condiment.CondimentMocha"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="lesson7.HocSinh"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="lesson5.QuanLyTaiLieu.Bao"/>
+    <fullyQualifiedTypeName name="lesson5.QuanLyTaiLieu.Sach"/>
+    <fullyQualifiedTypeName name="lesson11.nhaxuatban"/>
+</qualifiedTypeNameHistroy>

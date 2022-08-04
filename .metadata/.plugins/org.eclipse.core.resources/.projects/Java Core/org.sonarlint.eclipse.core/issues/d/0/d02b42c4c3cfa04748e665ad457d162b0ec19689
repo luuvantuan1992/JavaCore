@@ -1,0 +1,27 @@
+
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ƒåÆ·8Î¹ºÒ‘0H¹RBLOCKERZBUG
+ƒ	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìüàû8Î¹ºÒ‘0HºRMINORZ
+CODE_SMELL
+}
+java:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ì¾8¨¥©î‘0H»RBLOCKERZBUG
+v
+java:S2095Q"HUse try-with-resources or close this "Connection" in a "finally" clause.(ƒåÆ·8¨¥©î‘0H¼RBLOCKERZBUG
+…
+java:S3008"RRename this field "DB_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î•Ş·8¨¥©î‘0H½RMINORZ
+CODE_SMELL
+T
+java:S1116"Remove this empty statement.(Ú¶ú…ûÿÿÿÿ8Î¹ºÒ‘0H¾RMINORZ
+CODE_SMELL
+}
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŠÑáí8¨¥©î‘0HÀRBLOCKERZBUG
+‹
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÉıÆøÿÿÿÿ8¨¥©î‘0HÁRMINORZ
+CODE_SMELL
+Œ
+java:S3008"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¶ú…ûÿÿÿÿ8¨¥©î‘0HÂRMINORZ
+CODE_SMELL
+ƒ	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô±¦õ8Î¹ºÒ‘0HÃRMINORZ
+CODE_SMELL
+‚
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ğ´³üÿÿÿÿ8¨¥©î‘0HÄRBLOCKERZBUG

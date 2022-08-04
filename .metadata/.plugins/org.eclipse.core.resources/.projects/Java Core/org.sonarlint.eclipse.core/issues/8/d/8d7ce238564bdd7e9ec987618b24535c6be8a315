@@ -1,0 +1,12 @@
+
+ˆ	java:S116"VRename this field "number_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò–ç8Ô¹ºÒ‘0HáRMINORZ
+CODE_SMELL
+T
+java:S1116M"Remove this empty statement.(ôŸìúÿÿÿÿ8Ô¹ºÒ‘0HâRMINORZ
+CODE_SMELL
+ˆ	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÓ¾Ğüÿÿÿÿ8Ô¹ºÒ‘0HäRMINORZ
+CODE_SMELL
+ƒ	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‰ö„8Ô¹ºÒ‘0HåRMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áìèHæRMINORZ
+CODE_SMELL

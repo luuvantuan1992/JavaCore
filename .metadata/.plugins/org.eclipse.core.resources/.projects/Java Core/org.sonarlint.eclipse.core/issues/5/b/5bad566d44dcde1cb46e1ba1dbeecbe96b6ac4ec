@@ -1,0 +1,9 @@
+
+o
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(³Ø©½þÿÿÿÿHðRMINORZBUG
+T
+java:S1905%")Remove this unnecessary cast to "double".(·ÑøNHñRMINORZ
+CODE_SMELL
+Z
+java:S1905$")Remove this unnecessary cast to "double".(ØµèØùÿÿÿÿHóRMINORZ
+CODE_SMELL
